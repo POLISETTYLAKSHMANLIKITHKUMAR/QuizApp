@@ -1,1 +1,1 @@
-# QuizApp
+A Quiz App 🧠 using Angular enables **Create** (Add Questions ✨), **Read** (Display Quiz 📖), **Update** (Modify Questions 🔄), and **Delete** (Remove Questions 🗑️) functionalities. Angular ensures a dynamic and interactive UI ⚡ with smooth data binding 🎨. It provides a seamless quiz experience with timers, scoring, and animations 🚀.
